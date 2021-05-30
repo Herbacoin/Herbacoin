@@ -1,0 +1,9 @@
+Building Herbacoin
+
+See doc/readme-qt.rst for instructions on building Herbacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Herbacoin.
+
+See doc/build-*.txt for instructions on building herbacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Herbacoin.
